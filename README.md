@@ -17,6 +17,6 @@ At the ground side it takes the PPM signal of a standard RC transmitter with up 
 
 At the air side it gives 8 PWM and a PPM with up to 12 channel simultaniously with a resolution of one micro second using the Arduino Pro Mini IO.
 
-It also realizes a two stage failsafe feature in case of link loss.
+It also realizes a fully configurable two stage failsafe feature in case of link loss.
 
 Usage of up to 6 ADC, 2 PWM in and a serial port for telemetry data like GPS will follow.
