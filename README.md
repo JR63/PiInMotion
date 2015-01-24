@@ -16,7 +16,7 @@ At the air side it gives up to 8 PWM and a PPM with up to 12 channel simultaniou
 
 It also realizes a fully configurable two stage failsafe feature in case of link loss.
 
-Usage of up to 6 ADC, 2 PWM in and a serial port for telemetry data like GPS is also possible.
+Usage of up to 6 ADC, 2 PWM in and a serial port for telemetry data like GPS is also possible and dedicated telemetry data via speech output.
 
 
 PCB for Raspberry:
