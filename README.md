@@ -6,7 +6,7 @@ More will follow here and at http://www.swat-drones.de/index.php/hd-fpv/einleitu
 
 Teaser:
 
-This project will describe how to use Raspberry Pi B+ or A+ or Odroid-W and Arduino Pro Mini to realize a RC link to a vehicle over WLAN.
+This project will describe how to use Raspberry Pi B+, A+, 2 or Odroid-W and Arduino Pro Mini to realize a RC link to a vehicle over WLAN.
 
 It's mainly for FPV usage in combination with a HD video stream.
 
@@ -16,7 +16,14 @@ At the air side it gives up to 8 PWM and a PPM with up to 12 channel simultaniou
 
 It also realizes a fully configurable two stage failsafe feature in case of link loss.
 
-Usage of up to 6 ADC, 2 PWM in and a serial port for telemetry data like GPS is also possible and dedicated telemetry data via speech output.
+Usage of up to 6 ADC, 2 PWM in and a serial port for telemetry data like GPS is also possible.
+
+Dedicated telemetry data via speech output.
+
+
+PCBs for Raspberry and Odroid-W:
+
+![for Odroid-W](https://github.com/JR63/PiInMotion/blob/master/doc/pic/PiInMotionShields.jpg)
 
 
 PCB for Raspberry:
