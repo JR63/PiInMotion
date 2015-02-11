@@ -18,7 +18,7 @@ It also realizes a fully configurable two stage failsafe feature in case of link
 
 Usage of up to 6 ADC, 2 PWM in and a serial port for telemetry data like GPS is also possible.
 
-Dedicated telemetry data via speech output.
+Dedicated telemetry data via speech output is also implemented.
 
 
 PCBs for Raspberry and Odroid-W:
