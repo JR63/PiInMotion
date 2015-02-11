@@ -26,11 +26,21 @@ PCBs for Raspberry and Odroid-W:
 ![for Odroid-W](https://github.com/JR63/PiInMotion/blob/master/doc/pic/PiInMotionShields.jpg)
 
 
-PCB for Raspberry:
+Odroid-W version fully soldered:
 
-![for Raspberry](https://github.com/JR63/PiInMotion/blob/master/doc/pic/OSHParkBoardTopRaspberry.png)
+![for Odroid-W](https://github.com/JR63/PiInMotion/blob/master/doc/pic/PiInMotion003.jpg)
 
 
-PCB for Odroid-W:
+Odroid-W version with USB-WLAN stick:
 
-![for Odroid-W](https://github.com/JR63/PiInMotion/blob/master/doc/pic/OSHParkBoardTopOdroidW.png)
+![for Odroid-W](https://github.com/JR63/PiInMotion/blob/master/doc/pic/PiInMotion004.jpg)
+
+
+Odroid-W version weight:
+
+![for Odroid-W](https://github.com/JR63/PiInMotion/blob/master/doc/pic/PiInMotion005.jpg)
+
+
+Size matters:
+
+![for Odroid-W](https://github.com/JR63/PiInMotion/blob/master/doc/pic/PiInMotion006.jpg)
